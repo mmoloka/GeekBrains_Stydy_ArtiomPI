@@ -7,11 +7,11 @@
 
 ## Шпаргалки
 
--[] Создать шпаргалку Terminal commands ( Ветка - `Terminal_com` )
+-[x] Создать шпаргалку Terminal commands ( Ветка - `Terminal_com` )
 
--[] Создать шпаргалку Git ( Ветка - `Git_com` )
+-[x] Создать шпаргалку Git ( Ветка - `Git_com` )
 
--[] Создать шпаргалку Markdown ( Ветка - `Markdown` )
+-[x] Создать шпаргалку Markdown ( Ветка - `Markdown` )
 
 ## Инструкции
 
